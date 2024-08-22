@@ -1,0 +1,57 @@
+.home-page {
+    background-image: url('../images/bgHisto.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+  }
+  
+  
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay for better readability */
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content {
+    text-align: center;
+    color: white; /* Set text color to white */
+  }
+  
+  /* Additional styles for company name, text, and button */
+  .home-page {
+    background-image: url('../images/bgHisto.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .overlay {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay for better readability */
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content {
+    text-align: center;
+    color: white; /* Set text color to white */
+  }
+  
+  /* Additional styles for company name, text, and button */
+  .btn-start-exploring {
+    background-color: #000000;
+    color: white;
+  }

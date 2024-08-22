@@ -1,4 +1,4 @@
-# 🌐 VR Tour Guide with Integrated Chatbot
+# 🌐 Virtual Reality and AI/ML Powered History Guides for Immersive education and Tourism
 
 ![VR Tour Guide Banner](Tajmahal.png)
 
